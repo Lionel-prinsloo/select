@@ -27,7 +27,7 @@ try
 ?>
 
 
-<form method="POST" action="Toets-PDO.php">
+<form method="POST" action="select.php">
 
 
 product_naam: <input type="text" name="product_naam"><br>
